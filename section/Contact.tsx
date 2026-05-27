@@ -60,7 +60,7 @@ export default function Contact() {
               
               <div className="space-y-6">
                 {/* Phone Channel Link Block */}
-                <a href="tel:+2340000000000" className="flex items-center gap-4 group cursor-pointer">
+                <a href="tel:+2348136836992" className="flex items-center gap-4 group cursor-pointer">
                   <div className="p-3 rounded-xl bg-zinc-950 border border-zinc-800 text-cyan-400 group-hover:border-cyan-500/50 transition-colors">
                     <Phone className="w-5 h-5" />
                   </div>
@@ -71,7 +71,7 @@ export default function Contact() {
                 </a>
 
                 {/* Email Channel Link Block */}
-                <a href="mailto:yourbrand@email.com" className="flex items-center gap-4 group cursor-pointer">
+                <a href="mailto:emzudokplc@gmail.com" className="flex items-center gap-4 group cursor-pointer">
                   <div className="p-3 rounded-xl bg-zinc-950 border border-zinc-800 text-purple-400 group-hover:border-purple-500/50 transition-colors">
                     <Mail className="w-5 h-5" />
                   </div>
